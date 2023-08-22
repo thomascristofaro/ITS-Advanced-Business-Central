@@ -3,4 +3,4 @@
 
 Materiale per il corso "Sviluppo Business Central Avanzato" dell'istituto ITS-ICT Piemonte
 
-[lessons](lessons.html ':include width=100% height=300')
+[lessons](lessons.html ':include width=100% height=350')
